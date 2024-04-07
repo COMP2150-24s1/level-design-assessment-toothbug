@@ -3,15 +3,7 @@
 ### Name: Chloe Adams
 ### Student number: 47797401
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
@@ -19,16 +11,22 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-In the level I have designed, the player learns a variety of moves that allow them to progress, including the differing utility of low vs high jumps, and ladder climbs. These two dynamics are essential for all three sections of the level, and are taught through varying difficulties. 
+In the level I have designed, the player learns a variety of moves that allow them to progress, including the differing utility of low vs high jumps, and ladder climbs. These two dynamics are essential for all three sections of the level, and are taught through varying difficulties.
 
 Section one of my level, the underground cave system, introduces the importance of accuracy when choosing how high one should jump. The use of spikes are used to clue the player in with the required force of their jump, should they miscalculate, they are punished and either lose a healthpoint, or potentially get set back to the last checkpoint if they land in acid. The start of the encounter allows for error, as the first jump onto the platform only removes one healthpoint if the player misses.
+
 Based on external testing, most players instinctively only used high jumps when they first started out. Because of this, I chose to make the initial jump a highjump, then slowly introduced the players to the concept of low jumps through the use of roof spikes. I opted to introduce acid to the second and third jump, so that if they stuffed up before the checkpoint, they’d have to practice the sequence again. I did this to ensure full competency with the players abilities before making them attempt a harder sequence.
 
-First and Second Sequence comparison;
-![Place any alt text here](DocImages/SectionOneEncounterTwo.png) ![Place any alt text here](DocImages/SectionOneEncounterOne.png)
+First and Second Sequence comparison -->
+(keep in mind this section goes from right to left.)
+![Place any alt text here](DocImages/SectionOneEncounterOne.png)
+![Place any alt text here](DocImages/SectionOneEncounterTwo.png)
 
+As for the ladder climb, the concept is first introduced to the player in the third encounter of Section One, in a simple, low stakes environment. There are no immediate dangers, allowing the player to take their time, stuff up and keep trying. As relevant to the challenge aspect of the player experience, the player in future encounters a higher stakes, (and higher altitude) reimagining of the ladder climb they previously learned in Encounter Three of Section Three, only now there's a spitter added to create a sense of urgency and prevent loitering. The player also dies if they fall from the height, forcing the player to execute both the accuracy they learned through the first and the efficient ladder climbing they learned. Through repeating similar structures in my game, players learn efficiency alongside their new found precision.
 
-
+First Ladder Climb (Section One Encounter Three) vs Second Ladder Climb (Section Three Encounter Three) -->
+![Place any alt text here](DocImages/SectionOneEncounterThree.png)
+![Place any alt text here](DocImages/SectionThreeEncounterThree.png)
 
 
 ### 1.2. Drama
