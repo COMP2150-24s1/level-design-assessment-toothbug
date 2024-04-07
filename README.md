@@ -25,8 +25,8 @@ Section one of my level, the underground cave system, introduces the importance 
 Based on external testing, most players instinctively only used high jumps when they first started out. Because of this, I chose to make the initial jump a highjump, then slowly introduced the players to the concept of low jumps through the use of roof spikes. I opted to introduce acid to the second and third jump, so that if they stuffed up before the checkpoint, they’d have to practice the sequence again. I did this to ensure full competency with the players abilities before making them attempt a harder sequence.
 
 First and Second Sequence comparison;
-(DocImages/<SectionOneEncounterOne.png>)
-(DocImages/<SectionOneEncounterTwo.png>)
+(DocImages/SectionOneEncounterOne.png)
+(DocImages/SectionOneEncounterTwo.png)
 
 
 
