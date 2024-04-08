@@ -33,6 +33,9 @@ First Ladder Climb (Section One Encounter Three) vs Second Ladder Climb (Section
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+I have implemented drama in my game through my use of tension and relief. Encounter Three of Section Three is the best example of this, as it is intended to be the most intense part of my level, but also give the greatest triumph when completed. I’ve created this graph to demonstrate the intensity curve;
+![Place any alt text here](DocImages/Intensity.png)
+![Place any alt text here](DocImages/IntensityMap.png)
 
 
 ### 1.3. Challenge
