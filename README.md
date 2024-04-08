@@ -59,6 +59,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid
 
 ### 2.2. Checkpoints
+![Place any alt text here](DocImages/CheckpointStoryboard.png)
 
 ### 2.3. Chompers
 
@@ -86,6 +87,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
+![Place any alt text here](DocImages/SectionOneMovement.png)
 
 ### 3.3.	Level Map – Section 2
 
@@ -96,24 +98,10 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
+Iterative design has been a huge factor in getting my game to where it is now. There have been many times I’ve encountered flaws throughout the development of my game that have led to adjustments, as well as feedback from play testers to ensure that my game has visual clarity, clear goals, and overall provides a fun experience. 
 
 
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
