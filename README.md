@@ -46,11 +46,22 @@ The main challenge is for the player to understand how high they should jump wit
 
 To balance out the difficulty, I have implemented a reasonable amount of checkpoints throughout the section as to not dishearten the player if they make a mistake. The player will get punished, but the checkpoints are there to encourage them to be resilient and complete that section. The reward for each section is a key, so my goal is to ensure that the player wont give up midway. The checkpoints also ensure the player never has to repeat difficult sequences within the section, as some sections have multiple challenging obstacle combinations and it would be unreasonable for me to force the player to keep reliving the same possible mistakes. Once the player gets through a tough sequence, they've proven themselves worthy and should be able to progress.
 
-Another means I’ve used to ensure a fair outcome to the player is to leave a good amount of equippable health packs throughout each of the sections. In some sections, particularly section two, there's many ways to get injured or set back, to the point that even though there are checkpoints in place, a player could simply run out of health and be forced to start all overagain regardless of their progress. Health packs slow down the depletion of health and can even be the make or break in completing the section. Should the player still run out of health, then that's the players own lack of skill. I placed health packs in fair, accessible locations correlating to the previous obstacles, and even placed them in areas as a reward for exploration or risk taking.
+Another means I’ve used to ensure a fair outcome to the player is to leave a good amount of equippable health packs throughout each of the sections. In some sections, particularly section two, there's many ways to get injured or set back, to the point that even though there are checkpoints in place, a player could simply run out of health and be forced to start all over again regardless of their progress. Health packs slow down the depletion of health and can even be the make or break in completing the section. Should the player still run out of health, then that's the players own lack of skill. I placed health packs in fair, accessible locations correlating to the previous obstacles, and even placed them in areas as a reward for exploration or risk taking.
 
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+I have chosen to opt for a more open world style of level design to allow the player to explore each section at their own pace. Although some sections are arguably more complicated than others, each section introduces a concept then has the player develop their abilities as that section progresses.
+
+I have three sections; The Crystal Cave, The Mud Caves and The Skylands. Each of these sections are aesthetically differentiated through lighting, decorations and tile placement, as well as location to give each section its unique appeal. I’ve put rewards all over my level to encourage exploration, and ensured at no point does the player get trapped anywhere they can’t escape.
+
+To ensure that the learning curve for the player is always reasonable,  each of  the fundamental mechanics (such as ladder jumps and low/high jumps) are re-introduced at the start of each encounter so the player is never lost or punished for completing the sections in their own order– This will hopefully elevate the players experience as they have a sense of autonomy and are able to pick and choose which key to go for when. 
+
+There is an expected path for them to take based on the difficulty for inexperienced players, but should a more experienced player wish, they have the freedom to roam. (Through Playtesting I found that my dad, a less experienced player, opted for the more linear route I expected and didn’t have as much of an urge to explore, whilst my boyfriend, a veteran platformer, was eager to explore and discover every minute secret my level had to offer.)
+
+
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -62,6 +73,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid
 
 ### 2.2. Checkpoints
+This isn't the first introduction to checkpoints but I wanted to highlight a good use of them in the intrest of the player; In The Skylands, It would get very frustrating for the player to get knocked off by a spitter, or even just miss a jump and land back on the grounds, as this would force the player to climb all the way back up. Checkpoints are only helpful when the player touches acid, so to combat the potential annoyance of the player, I removed the graphics and animations from the acid and just used it as a Trasparent hitbox that could recent the pkayer back in the skylands incase they fell.
 ![Place any alt text here](DocImages/CheckpointStoryboard.png)
 
 ### 2.3. Chompers
