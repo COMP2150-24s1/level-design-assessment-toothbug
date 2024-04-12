@@ -65,24 +65,27 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Weapon Pickup (Staff) + Chompers
+![Place any alt text here](DocImages/StaffxChomper.png)
 
-### 2.2. Passthrough Platforms
+### 2.2. Passthrough Platforms + Spikes
+![Place any alt text here](DocImages/Passthrough.png)
 
-### 2.3. Spikes 
+### 2.3. Checkpoints + Acid + Spikes + Health Pickups
+![Place any alt text here](DocImages/CheckpointxAcidxSpikexHealth.png)
 
-### 2.4. Checkpoints + Acid
+### 2.4. Moving Platforms
+![Place any alt text here](DocImages/MovingPlatform.png)
 
-### 2.5. Health Pickups
+### 2.5. Keys
+![Place any alt text here](DocImages/Key.png)
 
-### 2.6. Moving Platforms
+### 2.6. Spitters
+![Place any alt text here](DocImages/Spitter.png)
 
-### 2.7. Keys
+### 2.7. Weapon Pickup (Gun)
+![Place any alt text here](DocImages/Gun.png)
 
-### 2.8. Spitters
-
-### 2.9. Weapon Pickup (Gun)
-
-### 2.10. Checkpoints pt.2
+### 2.8. Checkpoints pt.2
 This isn't the first introduction to checkpoints but I wanted to highlight a good use of them in the intrest of the player; In The Skylands, It would get very frustrating for the player to get knocked off by a spitter, or even just miss a jump and land back on the grounds, as this would force the player to climb all the way back up. Checkpoints are only helpful when the player touches acid, so to combat the potential annoyance of the player, I removed the graphics and animations from the acid and just used it as a Trasparent hitbox that could recent the pkayer back in the skylands incase they fell.
 ![Place any alt text here](DocImages/CheckpointStoryboard.png)
 
