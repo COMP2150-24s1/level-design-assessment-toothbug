@@ -14,7 +14,7 @@ What does the player learn? How does your encounter and broader level design fac
 
 In the level I have designed, the player learns a variety of moves that allow them to progress, including the differing utility of low vs high jumps, and ladder climbs. These two dynamics are essential for all three sections of the level, and are taught through varying difficulties.
 
-Section one of my level, the underground cave system, introduces the importance of accuracy when choosing how high one should jump. The use of spikes are used to clue the player in with the required force of their jump, should they miscalculate, they are punished and either lose a healthpoint, or potentially get set back to the last checkpoint if they land in acid. The start of the encounter allows for error, as the first jump onto the platform only removes one healthpoint if the player misses.
+Section one of my level, the underground cave system (The Crystal Caves), introduces the importance of accuracy when choosing how high one should jump. The use of spikes are used to clue the player in with the required force of their jump, should they miscalculate, they are punished and either lose a healthpoint, or potentially get set back to the last checkpoint if they land in acid. The start of the encounter allows for error, as the first jump onto the platform only removes one healthpoint if the player misses.
 
 Based on external testing, most players instinctively only used high jumps when they first started out. Because of this, I chose to make the initial jump a highjump, then slowly introduced the players to the concept of low jumps through the use of roof spikes. I opted to introduce acid to the second and third jump, so that if they stuffed up before the checkpoint, they’d have to practice the sequence again. I did this to ensure full competency with the players abilities before making them attempt a harder sequence.
 
@@ -52,15 +52,9 @@ Another means I’ve used to ensure a fair outcome to the player is to leave a g
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-I have chosen to opt for a more open world style of level design to allow the player to explore each section at their own pace. Although some sections are arguably more complicated than others, each section introduces a concept then has the player develop their abilities as that section progresses.
+I have chosen to opt for a more open world style of level design to allow the player to explore each section at their own pace. Although some sections are arguably more complicated than others, each section introduces a concept then has the player develop their abilities as that section progresses. I have three sections; The Crystal Cave, The Mud Caves and The Skylands. Each of these sections are aesthetically differentiated through lighting, decorations and tile placement, as well as location to give each section its unique appeal. I’ve put rewards all over my level to encourage exploration, and ensured at no point does the player get trapped anywhere they can’t escape.
 
-I have three sections; The Crystal Cave, The Mud Caves and The Skylands. Each of these sections are aesthetically differentiated through lighting, decorations and tile placement, as well as location to give each section its unique appeal. I’ve put rewards all over my level to encourage exploration, and ensured at no point does the player get trapped anywhere they can’t escape.
-
-To ensure that the learning curve for the player is always reasonable,  each of  the fundamental mechanics (such as ladder jumps and low/high jumps) are re-introduced at the start of each encounter so the player is never lost or punished for completing the sections in their own order– This will hopefully elevate the players experience as they have a sense of autonomy and are able to pick and choose which key to go for when. 
-
-There is an expected path for them to take based on the difficulty for inexperienced players, but should a more experienced player wish, they have the freedom to roam. (Through Playtesting I found that my dad, a less experienced player, opted for the more linear route I expected and didn’t have as much of an urge to explore, whilst my boyfriend, a veteran platformer, was eager to explore and discover every minute secret my level had to offer.)
-
-
+To ensure that the learning curve for the player is always reasonable,  each of  the fundamental mechanics (such as ladder jumps and low/high jumps) are re-introduced at the start of each encounter so the player is never lost or punished for completing the sections in their own order– This will hopefully elevate the players experience as they have a sense of autonomy and are able to pick and choose which key to go for when. There is an expected path for them to take based on the difficulty for inexperienced players, but should a more experienced player wish, they have the freedom to roam. (Through Playtesting I found that my dad, a less experienced player, opted for the more linear route I expected and didn’t have as much of an urge to explore, whilst my boyfriend, a veteran platformer, was eager to explore and discover every minute secret my level had to offer.)
 
 
 ## 2. Core Gameplay (~400 words)
@@ -70,29 +64,28 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Weapon Pickup (Staff) + Chompers
 
-### 2.2. Checkpoints
-This isn't the first introduction to checkpoints but I wanted to highlight a good use of them in the intrest of the player; In The Skylands, It would get very frustrating for the player to get knocked off by a spitter, or even just miss a jump and land back on the grounds, as this would force the player to climb all the way back up. Checkpoints are only helpful when the player touches acid, so to combat the potential annoyance of the player, I removed the graphics and animations from the acid and just used it as a Trasparent hitbox that could recent the pkayer back in the skylands incase they fell.
-![Place any alt text here](DocImages/CheckpointStoryboard.png)
+### 2.2. Passthrough Platforms
 
-### 2.3. Chompers
+### 2.3. Spikes 
 
-### 2.4. Health Pickups
+### 2.4. Checkpoints + Acid
 
-### 2.5. Keys
+### 2.5. Health Pickups
 
 ### 2.6. Moving Platforms
 
-### 2.7. Passthrough Platforms
+### 2.7. Keys
 
-### 2.8. Spikes
+### 2.8. Spitters
 
-### 2.9. Spitters
+### 2.9. Weapon Pickup (Gun)
 
-### 2.10. Weapon Pickup (Gun)
+### 2.10. Checkpoints pt.2
+This isn't the first introduction to checkpoints but I wanted to highlight a good use of them in the intrest of the player; In The Skylands, It would get very frustrating for the player to get knocked off by a spitter, or even just miss a jump and land back on the grounds, as this would force the player to climb all the way back up. Checkpoints are only helpful when the player touches acid, so to combat the potential annoyance of the player, I removed the graphics and animations from the acid and just used it as a Trasparent hitbox that could recent the pkayer back in the skylands incase they fell.
+![Place any alt text here](DocImages/CheckpointStoryboard.png)
 
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -116,7 +109,6 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
-
 
 Iterative design has been a huge factor in getting my game to where it is now. There have been many times I’ve encountered flaws throughout the development of my game that have led to adjustments, as well as feedback from play testers to ensure that my game has visual clarity, clear goals, and overall provides a fun experience. 
 
